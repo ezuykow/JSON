@@ -1,0 +1,70 @@
+[
+  {
+    "name" : "cottage cheese pancakes",
+    "cookingTimeMinutes" : 30,
+    "ingredients" : {
+      "cottage cheese" : {
+        "count" : 350,
+        "measurementUnits" : "grams"
+      },
+      "egg" : {
+        "count" : 2,
+        "measurementUnits" : "units"
+      },
+      "wheatFlour" : {
+        "count" : 6,
+        "measurementUnits" : "tablespoons"
+      },
+      "sugar" : {
+        "count" : 2,
+        "measurementUnits" : "tablespoons"
+      }
+    },
+    "instruction" : {
+      "step1" : "...some...",
+      "step2" : "...some..."
+    }
+  },
+  {
+    "name" : "Red Bean Salad with Cream Cheese, Red Onion and Seasonal Lettuce",
+    "cookingTimeMinutes" : 7,
+    "ingredients" : {
+      "spices" : {
+        "count" : 0,
+        "measurementUnits" : "to taste"
+      },
+      "cannedBeans" : {
+        "count" : 400,
+        "measurementUnits" : "grams"
+      },
+      "lemon" : {
+        "count" : 1,
+        "measurementUnits" : "unit"
+      },
+      "garlic" : {
+        "count" : 2,
+        "measurementUnits" : "cloves"
+      },
+      "oliveOil" : {
+        "count" : 50,
+        "measurementUnits" : "ml"
+      },
+      "rucola" : {
+        "count" : 100,
+        "measurementUnits" : "grams"
+      },
+      "cottageCheese" : {
+        "count" : 200,
+        "measurementUnits" : "grams"
+      },
+      "redOnion" : {
+        "count" : 50,
+        "measurementUnits" : "grams"
+      }
+    },
+    "instruction" : {
+      "step1" : "...some...",
+      "step2" : "...some..."
+    }
+  }
+]
